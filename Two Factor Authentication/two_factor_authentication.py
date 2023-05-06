@@ -4,7 +4,9 @@ import qrcode
 
 #key = pyotp.random_base32()
 
-key = "ElitesYashSuperSecretKey"
+key = "YashSuperSecretKey"
+
+#------------------------ Generate OTP --------------------------------
 
 # totp = pyotp.TOTP(key)
 
